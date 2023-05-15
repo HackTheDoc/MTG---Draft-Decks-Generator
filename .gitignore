@@ -1,0 +1,11 @@
+Makefile
+
+*.d
+
+obj/
+
+temp/
+
+temp/src/
+
+.vscode/
