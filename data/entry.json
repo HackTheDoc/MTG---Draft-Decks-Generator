@@ -1,0 +1,28 @@
+{
+    "set_of_boosters": {
+        "1": [
+			{
+				"name": "Raptor équarisseur",
+				"manaCost": "2{W}",
+				"convertedManaCost": 3,
+				"colors": [
+					"White"
+				],
+				"colorIdentity": [
+					"W"
+				],
+				"type": "Creature - phyrexian oiseau",
+				"subtypes": [
+					"phyrexian",
+					"oiseau"
+				],
+				"text": "Vol\nToxique 1 (Les joueurs qui subissent des blessures de combat de cette créature gagnent aussi un marqueur « poison ».)\nQuand le Raptor équarrisseur arrive sur le champ de bataille, une autre créature ciblée que vous contrôlez avec le toxique gagne +1/+1 et acquiert le vol jusqu'à la fin du tour.",
+				"capacities": [
+					"vol",
+					"toxique 1"
+				],
+				"loyalty": null
+			}
+		]
+    }
+}
